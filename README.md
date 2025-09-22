@@ -1,6 +1,8 @@
+![Cloud Contraptions Logo](https://www.cloudcontraptions.com/cloud-contraptions-logo-dark.svg "Cloud Contraptions Logo")
+
 # Welcome to Cloud Contraptions!
 
-🌐 **Website**: [https://www.cloudcontraptions.com](https://www.cloudcontraptions.com)
+🌐 **Courses We Teach**: [https://www.cloudcontraptions.com/courses](https://www.cloudcontraptions.com/courses)
 
 ## What We Do
 
@@ -21,6 +23,8 @@ What sets us apart is our commitment to serving our customers — meeting you wh
 
 ## Connect With Us
 
+- ✉️ Email us: [support@cloudcontraptions.com](mailto:support@cloudcontraptions.com)
+- ☎️ Call us: [+1-434-945-9416](tel:+14349459416)
 - 🌐 Visit our website: [https://www.cloudcontraptions.com](https://www.cloudcontraptions.com)
 - 📧 Follow us on LinkedIn: [http://linkedin.com/company/cloudcontraptions](http://linkedin.com/company/cloudcontraptions)
 
@@ -30,4 +34,4 @@ This organization hosts repositories for the classes we deliver. Most of the cla
 
 ---
 
-*Cloud Contraptions LLC - Empowering developers through innovative training and cloud solutions*
+*Cloud Contraptions LLC - Empowering software engineers through innovative training and cloud solutions*
